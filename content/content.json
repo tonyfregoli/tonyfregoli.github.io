@@ -1,9 +1,9 @@
 [
 	{
-		"title":"Create your own ranking of NHS Clinical Network Areas",
+		"title":"Create your own ranking of NHS Clinical Networks",
 		"image":"images/mnda.png",
 		"tags":["D3"],
-		"description":"By attributing a subjective score to the waiting times in getting a referral, the model shows your own ranking of NHS Clinical Networks Areas. Data courtesy of MNDA.",
+		"description":"By attributing a subjective score to the waiting times in getting a referral, the model ranks the NHS Clinical Networks accordingly. Data courtesy of MNDA.",
 		"url":"https://tonyfregoli.github.io/mnda"
 	},
 	{
