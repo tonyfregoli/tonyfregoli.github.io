@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Create your own ranking of NHS Clinical Network Areas",
+		"image":"images/mnda.png",
+		"tags":["D3"],
+		"description":"By attributing a subjective score to the waiting times in getting a referral, the model shows your own ranking of NHS Clinical Networks Areas. Data courtesy of MNDA.",
+		"url":"https://tonyfregoli.github.io/mnda"
+	},
+	{
+		"title":"Risk Assurance Dashboard",
+		"image":"images/assurance.png",
+		"tags":["Power BI"],
+		"description":"Displaying the Risk Assurance of an organisation through colour-coded bars based on a simple and fully customisabile model",
+		"url":""
+	}
+]
