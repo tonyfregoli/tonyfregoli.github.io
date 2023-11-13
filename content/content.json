@@ -11,7 +11,7 @@
 		"image":"images/assurance.png",
 		"tags":["Power BI"],
 		"description":"Displaying the Risk Assurance of an organisation through colour-coded bars based on a simple and fully customisabile model",
-		"url":""
+		"url":"pages/assurance.html"
 	},
 	{
 		"title":"Census 2021 Dashboard",
