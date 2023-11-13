@@ -1,9 +1,9 @@
 [
 	{
-		"title":"Create your own ranking of NHS Clinical Networks",
+		"title":"NHS Strategic Clinical Networks Ranking",
 		"image":"images/mnda.png",
 		"tags":["D3"],
-		"description":"By attributing a subjective score to the waiting times in getting a referral, the model ranks the NHS Clinical Networks accordingly. Data courtesy of MNDA.",
+		"description":"By attributing a subjective score to the waiting times in getting a referral, the model ranks the performance of NHS Clinical Networks accordingly.",
 		"url":"https://tonyfregoli.github.io/mnda"
 	},
 	{
@@ -17,7 +17,7 @@
 		"title":"Census 2021 Dashboard",
 		"image":"images/census2021.png",
 		"tags":["Power BI"],
-		"description":"Explore the demographics of Waltham Forest, create your own cross-sections by taking advantage of the new multivariate ONS datasets",
+		"description":"Explore the demographics of Waltham Forest, analyse custom cross-sections of the population by taking advantage of the new multivariate ONS datasets",
 		"url":"pages/census2021.html"
 	}
 ]
