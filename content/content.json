@@ -11,6 +11,13 @@
 		"image":"images/assurance.png",
 		"tags":["Power BI"],
 		"description":"Displaying the Risk Assurance of an organisation through colour-coded bars based on a simple and fully customisabile model",
-		"url":"pages/test.html"
+		"url":""
+	},
+	{
+		"title":"Census 2021 Dashboard",
+		"image":"images/census2021.png",
+		"tags":["Power BI"],
+		"description":"Explore the demographics of Waltham Forest, create your own cross-sections by taking advantage of the new multivariate ONS datasets",
+		"url":"pages/census2021.html"
 	}
 ]
