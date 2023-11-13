@@ -1,12 +1,12 @@
 #container {
     display: block;
-	width: 98vw;
-	height: 96vh;
+	width: 99vw;
+	height: 99vh;
 }
 
 @media only screen and (orientation: portrait) {
   #container {
-    height: 50vh;
+    height: 55vh;
     width: 100vh;
     overflow-x: auto;
     position: absolute;
