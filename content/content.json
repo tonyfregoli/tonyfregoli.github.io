@@ -7,6 +7,13 @@
 		"url":"https://tonyfregoli.github.io/mnda"
 	},
 	{
+		"title":"Energy Efficiency Support",
+		"image":"images/energy.png",
+		"tags":["Power BI"],
+		"description":"A tool to filter and locate properties in Waltham Forest in need of energy efficiency interventions and estimate their costs and benefits",
+		"url":"pages/energy.html"
+	},
+	{
 		"title":"Census 2021 Dashboard",
 		"image":"images/census2021.png",
 		"tags":["Power BI"],
