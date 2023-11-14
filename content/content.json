@@ -10,7 +10,7 @@
 		"title":"Energy Efficiency Support",
 		"image":"images/energy.png",
 		"tags":["Power BI"],
-		"description":"A tool to filter and locate properties in Waltham Forest in need of energy efficiency interventions and estimate their costs and benefits",
+		"description":"A tool to filter and locate Waltham Forest properties in need of energy efficiency interventions and also quantify their cost and benefit",
 		"url":"pages/energy.html"
 	},
 	{
