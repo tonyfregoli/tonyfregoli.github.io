@@ -55,10 +55,12 @@ function generateGrid(data){
 
 		$('#image'+i).css({"max-width": "100%", "max-height": "auto"});
 		
-		if(i != 0) {restOfColors = colors.toSpliced(color, 1)}
-		console.log(restOfColors);
+		if(restOfColors.length == 0) {
+			restOfColors = colors.toSpliced(color, 1)
+		} else if(i != 0) {
+			restOfColors.splice(color, 1)
+		}
 		color = Math.floor((Math.random() * (restOfColors.length-1)));
-		console.log(color);
 		$('#overlay'+i).css({'background-color':restOfColors[color]});
 
 		$('#overlay'+i).on('click',function(){
