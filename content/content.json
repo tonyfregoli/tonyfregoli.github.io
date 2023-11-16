@@ -33,5 +33,12 @@
 		"tags":["Power BI"],
 		"description":"Sales and Marketing Dashboard for Natura, a Bicycle company. Industry landscape, market share, product volume, sales, and a tool for competitor analysis.",
 		"url":"pages/natura.html"
+	},
+	{
+		"title":"ONS Custom Area Profile Splitter",
+		"image":"images/splitter.png",
+		"tags":["R"],
+		"description":"An R tool to split PNG chart mosaics produced with the Census 2021 Custom Area Profile Builder into individual chart tiles and make your own tile patterns.",
+		"url":"https://github.com/tonyfregoli/CustomAreaProfileSplitter/tree/main#readme"
 	}
 ]
