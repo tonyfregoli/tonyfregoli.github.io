@@ -18,7 +18,7 @@
 		"image":"images/census2021.png",
 		"tags":["Power BI"],
 		"description":"Explore the demographics of Waltham Forest, analyse custom cross-sections of the population by taking advantage of the new multivariate ONS datasets",
-		"url":"pages/census2021.html"
+		"url":"pages/census.html"
 	},
 	{
 		"title":"Risk Assurance Dashboard",
@@ -26,5 +26,12 @@
 		"tags":["Power BI"],
 		"description":"Displaying the Risk Assurance of an organisation through colour-coded bars based on a simple and fully customisabile model",
 		"url":"pages/assurance.html"
+	},
+	{
+		"title":"Natura Cycles Sales and Marketing Report",
+		"image":"images/natura.png",
+		"tags":["Power BI"],
+		"description":"Sales and Marketing Dashboard for bicycle company Natura. Industry landscape, market share, product volume, sales, and a wonderful competitor comparison tool.",
+		"url":"pages/natura.html"
 	}
 ]
