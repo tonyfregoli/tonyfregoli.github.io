@@ -1,0 +1,33 @@
+#container {
+    display: block;
+	width: 80vw;
+	height: 85vh;
+}
+
+@media only screen and (orientation: portrait) {
+  #container {
+    height: 55vh;
+    width: 100vh;
+    overflow-x: auto;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    transform-origin: 100% 0vh 0;
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
+@media only screen and (orientation:landscape) {
+  #container {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+
