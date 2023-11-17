@@ -1,4 +1,4 @@
-var colors = ['#FF5722','#039BE5','#009688','#E91E63','#9C27B0','#D84315'];
+var colors = ['#FF5722','#039BE5','#009688','#E91E63','#9C27B0','#F4C92E'];
 
 $.ajax({
 	url:'content/content.json',
@@ -39,7 +39,7 @@ function initGrid(data){
 
 function generateGrid(data){
 	var color = 0;
-	var restOfColors = colors;
+	var restOfColors = [...colors];
 	
 	data.forEach(function(d,i){
 		
@@ -56,12 +56,11 @@ function generateGrid(data){
 		$('#image'+i).css({"max-width": "100%", "max-height": "auto"});
 		
 		if(restOfColors.length == 0) {
-			restOfColors = colors.toSpliced(color, 1)
-		} else if(i != 0) {
-			restOfColors.splice(color, 1)
-		}
+			restOfColors = colors.toSpliced(colors.indexOf(restOfColors[color]), 1);
+		} 
 		color = Math.floor((Math.random() * (restOfColors.length-1)));
 		$('#overlay'+i).css({'background-color':restOfColors[color]});
+		restOfColors.splice(color, 1)
 
 		$('#overlay'+i).on('click',function(){
 			if($('#overlay'+i).css('opacity')>0.5){
