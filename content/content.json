@@ -40,5 +40,13 @@
 		"tags":["R"],
 		"description":"An R tool to split PNG chart mosaics produced with the Census 2021 Custom Area Profile Builder into individual chart tiles and make your own tile patterns.",
 		"url":"https://github.com/tonyfregoli/CustomAreaProfileSplitter/tree/main#readme"
+	},
+	{
+		"title":"FTSE 350 Audit Committee Members",
+		"image":"images/audit.png",
+		"tags":["Python"],
+		"description":"A Python script that retrieves key information for all the FTSE 350 companies Audit Committee members at a given date.",
+		"url":"https://github.com/tonyfregoli/AuditCommitteeMembers/tree/main"
 	}
+]
 ]
