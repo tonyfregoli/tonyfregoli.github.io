@@ -45,7 +45,7 @@
 		"title":"FTSE 350 Audit Committee Members",
 		"image":"images/audit.png",
 		"tags":["Python"],
-		"description":"A Python script that retrieves key information for all the FTSE 350 companies Audit Committee members at a given date.",
+		"description":"A Python script that retrieves key information for all the Audit Committee members of the FTSE 350 companies at a given date.",
 		"url":"https://github.com/tonyfregoli/AuditCommitteeMembers/tree/main"
 	}
 ]
