@@ -47,5 +47,12 @@
 		"tags":["Python"],
 		"description":"A Python script that retrieves key information for all the Audit Committee members of the FTSE 350 companies at a given date.",
 		"url":"https://github.com/tonyfregoli/AuditCommitteeMembers/tree/main"
+	},
+	{
+		"title":"UK Companies House API Examples",
+		"image":"images/ch.png",
+		"tags":["Python"],
+		"description":"A collection of notes on how to use the Companies House API in your Python script.",
+		"url":"https://github.com/tonyfregoli/CompaniesHouseAPIExamples/tree/main"
 	}
 ]
